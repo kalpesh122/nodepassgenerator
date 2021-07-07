@@ -44,6 +44,7 @@ const hasNos = ['1', '2', '3', '4', '5', '6', '7', '8', '9']
 //  Empty Var to store the password
 let passGen = ''
 
+// Vars
 let command = yargs.argv.length
 let command_1 = yargs.argv.hash
 let command_2 = yargs.argv.Number
